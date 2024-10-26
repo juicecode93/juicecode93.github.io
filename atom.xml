@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://juicecode93.github.io</id>
+    <title>思途停泊</title>
+    <updated>2024-10-26T16:00:58.411Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://juicecode93.github.io"/>
+    <link rel="self" href="https://juicecode93.github.io/atom.xml"/>
+    <subtitle>稍縱即逝</subtitle>
+    <logo>https://juicecode93.github.io/images/avatar.png</logo>
+    <icon>https://juicecode93.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, 思途停泊</rights>
+    <entry>
+        <title type="html"><![CDATA[第四篇文章]]></title>
+        <id>https://juicecode93.github.io/post/di-si-pian-wen-zhang/</id>
+        <link href="https://juicecode93.github.io/post/di-si-pian-wen-zhang/">
+        </link>
+        <updated>2024-10-26T15:49:20.000Z</updated>
+        <content type="html"><![CDATA[<p>測試第四篇文章<br>
+不知道那個note的頁面跑得出來跑不出來</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第三篇文章]]></title>
+        <id>https://juicecode93.github.io/post/di-san-pian-wen-zhang/</id>
+        <link href="https://juicecode93.github.io/post/di-san-pian-wen-zhang/">
+        </link>
+        <updated>2024-10-26T12:43:59.000Z</updated>
+        <content type="html"><![CDATA[<p>為什麼沒有套用主題呢？</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第二篇文章測試]]></title>
+        <id>https://juicecode93.github.io/post/di-er-pian-wen-zhang-ce-shi/</id>
+        <link href="https://juicecode93.github.io/post/di-er-pian-wen-zhang-ce-shi/">
+        </link>
+        <updated>2024-10-26T11:59:52.000Z</updated>
+        <content type="html"><![CDATA[<p>繼續測試文章<br>
+<img src="https://juicecode93.github.io/post-images/1729944005986.png" alt="" loading="lazy"></p>
+<p>只有本機圖片嗎……？</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[初次使用]]></title>
+        <id>https://juicecode93.github.io/post/hello-gridea/</id>
+        <link href="https://juicecode93.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>這邊可以寫前言</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>這邊可以寫前言</p>
+<!-- more -->
+<p>這邊開始是繼續閱讀</p>
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea</a><br>
+<a href="https://fehey.com/">範例網站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  可以使用 <strong>Markdown</strong>語法＋顏文字</p>
+<p>🌉  插入圖片<img src="https://juicecode93.github.io/post-images/1729942872443.png" alt="" loading="lazy"></p>
+<p>欸不是怎麼會是本機圖片啊！！！！</p>
+<p>🏷️  可以標籤</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>據說可以插入評論系統，不過我應該不需要這個：</p>
+<p>💬  可接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 評論</p>
+]]></content>
+    </entry>
+</feed>

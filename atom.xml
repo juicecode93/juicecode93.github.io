@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://juicecode93.github.io</id>
+    <title>測試網頁</title>
+    <updated>2024-10-27T16:48:17.253Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://juicecode93.github.io"/>
+    <link rel="self" href="https://juicecode93.github.io/atom.xml"/>
+    <subtitle>先放著</subtitle>
+    <logo>https://juicecode93.github.io/images/avatar.png</logo>
+    <icon>https://juicecode93.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, 測試網頁</rights>
+    <entry>
+        <title type="html"><![CDATA[初次使用]]></title>
+        <id>https://juicecode93.github.io/post/hello/</id>
+        <link href="https://juicecode93.github.io/post/hello/">
+        </link>
+        <updated>2024-10-27T15:58:19.000Z</updated>
+        <summary type="html"><![CDATA[<p>這邊可以寫前言</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>這邊可以寫前言</p>
+<!-- more -->
+<p>這邊開始是繼續閱讀</p>
+<h2 id="特性">特性👇</h2>
+<p>📝  可以使用 <strong>Markdown</strong>語法＋顏文字</p>
+<p>🌉  插入圖片<img src="https://juicecode93.github.io/post-images/1729942872443.png" alt="" loading="lazy"></p>
+<p>本機圖片可以自動上傳</p>
+<p>🏷️  可以標籤</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第四篇文章]]></title>
+        <id>https://juicecode93.github.io/post/di-si-pian-wen-zhang/</id>
+        <link href="https://juicecode93.github.io/post/di-si-pian-wen-zhang/">
+        </link>
+        <updated>2024-10-26T15:49:20.000Z</updated>
+        <summary type="html"><![CDATA[<p>測試第四篇文章<br>
+不知道那個note的頁面跑得出來跑不出來</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>測試第四篇文章<br>
+不知道那個note的頁面跑得出來跑不出來</p>
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第三篇文章]]></title>
+        <id>https://juicecode93.github.io/post/di-san-pian-wen-zhang/</id>
+        <link href="https://juicecode93.github.io/post/di-san-pian-wen-zhang/">
+        </link>
+        <updated>2024-10-26T12:43:59.000Z</updated>
+        <summary type="html"><![CDATA[<p>有了<br>
+如果記得加繼續閱讀符號，就能直接看到內文了。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>有了<br>
+如果記得加繼續閱讀符號，就能直接看到內文了。</p>
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第二篇文章測試]]></title>
+        <id>https://juicecode93.github.io/post/di-er-pian-wen-zhang-ce-shi/</id>
+        <link href="https://juicecode93.github.io/post/di-er-pian-wen-zhang-ce-shi/">
+        </link>
+        <updated>2024-10-26T11:59:52.000Z</updated>
+        <summary type="html"><![CDATA[<p>繼續測試文章<br>
+<img src="https://juicecode93.github.io/post-images/1729944005986.png" alt="" loading="lazy"></p>
+<p>只有本機圖片嗎……？</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>繼續測試文章<br>
+<img src="https://juicecode93.github.io/post-images/1729944005986.png" alt="" loading="lazy"></p>
+<p>只有本機圖片嗎……？</p>
+<!-- more -->
+<p>繼續閱讀區</p>
+]]></content>
+    </entry>
+</feed>
